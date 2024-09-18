@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'http://libapp.tsu.ac.th/e-service/announ/asia/',
+        'url'		=> 'https://www.np.ac.th/nbac/asia/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
