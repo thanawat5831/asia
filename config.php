@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://www.np.ac.th/np/asia/',
+        'url'		=> 'https://nsn-dep.moph.go.th/kpi_nsn/asia/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
