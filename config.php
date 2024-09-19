@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://division.dwr.go.th/ig/asia/',
+        'url'		=> 'https://nsn-dep.moph.go.th/accmap/asia/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
