@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://smart.hss.moph.go.th/phdb/asia/',
+        'url'		=> 'https://www.lp-pao.go.th/Main60/libraries/cms/less/asia/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
