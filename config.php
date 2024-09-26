@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://www.lp-pao.go.th/Main60/libraries/cms/less/asia/',
+        'url'		=> 'https://division.dwr.go.th/asia/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
